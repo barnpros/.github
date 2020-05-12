@@ -20,12 +20,12 @@ If you have one or more possibe solutions for how to implement this feature then
 
 List your options in this format
 
-- 1. One sentence description of option
+1. One sentence description of option
   - Details of the technical implementation
   - Tradeoffs made in design decisions
   - Caveats and considerations for the future
   
-- 2. One sentence description of option
+2. One sentence description of option
   - Details of the technical implementation
   - Tradeoffs made in design decisions
   - Caveats and considerations for the future
