@@ -1,14 +1,14 @@
 ---
 name: "🐛 Bug Report"
-about: Suggest a new feature for this application
-title: '🐛 [Describe the bug as few words as possible]'
-labels: 'enhancement'
+about: Report a bug in an existing feature
+title: '🐛 [Bug]: Describe the bug as few words as possible'
+labels: 'bug'
 assignees: ''
 
 ---
 
 Your issue may already be reported!
-Please search on the issue tracker before creating one.
+Please search on the [issue tracker](../) before creating one.
 
 ## Expected Behavior
 Describe the intended behavior of the feature that is experiencing the bug.
