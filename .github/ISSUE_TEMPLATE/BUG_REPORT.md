@@ -1,7 +1,7 @@
 ---
-name: "🚀 Feature request"
+name: "🐛 Bug Report"
 about: Suggest a new feature for this application
-title: ''
+title: '🐛 [Describe the bug as few words as possible]'
 labels: 'enhancement'
 assignees: ''
 
