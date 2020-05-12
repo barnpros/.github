@@ -30,6 +30,4 @@ List your options in this format
     - Tradeoffs made in design decisions
     - Caveats and considerations for the future
 
-...
-
 Provide a brief description of the proposed solution (if multiple solutions are provided indicate which is your preferred option), and describe why that solution is the best/ most ideal implementation for this feature.
