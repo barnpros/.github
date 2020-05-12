@@ -1,12 +1,3 @@
----
-name: "➡ Pull Request"
-about: Request to merge a branch into master
-title: '➡ your branch name here'
-labels: 'enhancement'
-assignees: ''
-
----
-
 # [your_branch_name_here]
 
 ## Summary
