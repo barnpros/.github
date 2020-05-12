@@ -15,6 +15,13 @@ Write a brief, but detailed, description of changes introduced with this Pull Re
 
 Please also include relevant motivation and context.
 
+## Issues
+
+Please list issues this Pull Request seeks to address
+
+- #ISSUE_NUMBER
+- #ISSUE_NUMBER
+
 ## Type of Change
 
 Please delete options that are not relevant.
