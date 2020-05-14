@@ -50,7 +50,7 @@ Please complete the following checklists to confirm the quality and efficacy of 
 
 ### Merge Conflicts
 
-- [ ] I have run `git pull origin master` locally and resolved any resulting merge conflicts
+- [ ] I have run `git pull origin development` locally and resolved any resulting merge conflicts
 
 ## Requested Reviewers
 
